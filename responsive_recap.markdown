@@ -34,6 +34,21 @@ Méthode de mise en page permettant de disposer des éléments en lignes ou en c
 
 ![Flexbox](/flex.png)
 
+'''diff
+- .container {
+   /* Create a flex container */
+   display: flex;
+   /* Items direction (here in row, from left to right) */
+   flex-direction: row;
+   /* Behaviour when items overflow the parent container (here, items go to a new line automatically if needed) */
+   flex-wrap: wrap;
+   /* Item distribution within the remaining space (here, similar spacing between and around items) */
+   justify-content: space-around;
+   /* Items alignment along the cross-axis */
+   align-items: flex-start;
+   }
+'''
+
 ## 3 Conclusion :
 
 Plus de la moitié du traffic internet se fait aujourd'hui à l'aide de téléphones portables et de tablettes, il est donc important de penser au responsive design dès le début de la conception d'un site ou d'une application. 
