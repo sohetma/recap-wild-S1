@@ -1,6 +1,6 @@
-#**Responsive Web Design**
+# **Responsive Web Design**
 
-##Qu'est-ce que c'est ? 
+## Qu'est-ce que c'est ? 
 
 Réorganisation des éléments sur une page de navigateur ou sur une app en fonction du changement de taille de l'écran en vue de développer une seule interface auto-adaptable.
 
@@ -11,7 +11,7 @@ Réorganisation des éléments sur une page de navigateur ou sur une app en fonc
 
 ![Alt Text](https://www.vervesearch.com/wp-content/uploads/2014/10/blog-01-01.jpg)
 
-##Comment ça se passe ?
+## Comment ça se passe ?
 
 Les développeurs ont plusieurs solutions lorsqu'ils souhaitent travailler sur le Responsive :
 
