@@ -32,6 +32,7 @@ Exemple :
 
 Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements au moyen de **"containers"**.
 
+![Flexbox](/recap-wild-S1/flex.png)
 
 ## 3 Conclusion :
 
