@@ -9,9 +9,7 @@ Réorganisation des éléments sur une page de navigateur ou sur une app en fonc
 - Disparition d'éléments
 - Optimisation d'images
 
-![](/recap-wild-S1/responsive.jpg) 
-
-Format: ![Alt Text](https://www.vervesearch.com/wp-content/uploads/2014/10/blog-01-01.jpg)
+![Alt Text](https://www.vervesearch.com/wp-content/uploads/2014/10/blog-01-01.jpg)
 
 Comment ça se passe ?
 
