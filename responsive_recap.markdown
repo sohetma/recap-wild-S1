@@ -34,6 +34,7 @@ Méthode de mise en page permettant de disposer des éléments en lignes ou en c
 
 ![Flexbox](/flex.png)
 
+![Exemple](/flex-code.png)
 
 ## 3 Conclusion :
 
