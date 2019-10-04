@@ -30,7 +30,7 @@ Exemple :
 
 ### FlexBox :
 
-Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements au moyen de **"containers"**.
+Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements au moyen de **"containers"**. Pleins d'astuces sur le site [CSS tricks](https://css-tricks.com/).
 
 ![Flexbox](/flex.png)
 
