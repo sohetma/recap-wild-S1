@@ -15,5 +15,22 @@ Réorganisation des éléments sur une page de navigateur ou sur une app en fonc
 
 Les développeurs ont plusieurs méthodes lorsqu'ils souhaitent travailler sur le Responsive, celles que nous avons vues cette semaine sont :
 
-- Media Queries
-- FlexBox
+### Media Queries :
+
+Variation des propriétés CSS en fonction de conditions particulières :
+
+-	Type d’affichage : écran, impression, braille…
+-	Largeur de l’écran (définition de points de rupture)
+- Orientation de l'écran
+
+exemple : @media only screen and (max-width: 600px) {...}
+
+
+### FlexBox :
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
