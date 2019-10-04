@@ -1,3 +1,3 @@
 lkfdlklkdsfl
-*italic* markdown
+**italic** markdown
 [github] (http://google.com)
