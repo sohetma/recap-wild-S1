@@ -23,13 +23,19 @@ Variation des propriétés CSS en fonction de conditions particulières :
 -	Largeur de l’écran (définition de points de rupture)
 - Orientation de l'écran
 
-exemple : 
+Exemple : 
 ```diff
 - @media only screen and (max-width: 600px) {...}
 ```
 
 ### FlexBox :
 
-Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements.
+Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements au moyen de **"containers"**.
+
+
+## 3 Conclusion :
+
+Plus de la moitié du traffic internet se fait aujourd'hui à l'aide de téléphones portables et de tablettes, il est donc important de penser au responsive design dès le début de la conception d'un site ou d'une application. 
+
 
 
