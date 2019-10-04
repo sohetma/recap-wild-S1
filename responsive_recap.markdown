@@ -23,7 +23,10 @@ Variation des propriétés CSS en fonction de conditions particulières :
 -	Largeur de l’écran (définition de points de rupture)
 - Orientation de l'écran
 
-exemple : @media only screen and (max-width: 600px) {...}
+exemple : 
+```diff
+- @media only screen and (max-width: 600px) {...}
+```
 
 ### FlexBox :
 
