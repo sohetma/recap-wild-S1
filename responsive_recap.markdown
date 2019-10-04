@@ -9,7 +9,7 @@ Réorganisation des éléments sur une page de navigateur ou sur une app en fonc
 - Disparition d'éléments
 - Optimisation d'images
 
-
+[id]: recap-wild-S1/responsive.jpg "Responsive"
 
 Comment ça se passe ?
 
