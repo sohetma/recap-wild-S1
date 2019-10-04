@@ -1,1 +1,1 @@
-# Wild Code School : recapitulatif du design responsive (S1)
+# Wild Code School : récapitulatif du design responsive (S1)
