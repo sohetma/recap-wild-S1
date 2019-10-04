@@ -20,8 +20,8 @@ Les développeurs ont plusieurs méthodes lorsqu'ils souhaitent travailler sur l
 Variation des propriétés CSS en fonction de conditions particulières :
 
 -	Type d’affichage : écran, impression, braille…
--	Largeur de l’écran (définition de points de rupture)
-- Orientation de l'écran
+-  Largeur de l’écran (définition de points de rupture)
+-  Orientation de l'écran
 
 Exemple : 
 ```diff
@@ -34,7 +34,7 @@ Méthode de mise en page permettant de disposer des éléments en lignes ou en c
 
 ![Flexbox](/flex.png)
 
-'''diff
+```diff
 - .container {
    /* Create a flex container */
    display: flex;
@@ -47,7 +47,7 @@ Méthode de mise en page permettant de disposer des éléments en lignes ou en c
    /* Items alignment along the cross-axis */
    align-items: flex-start;
    }
-'''
+```
 
 ## 3 Conclusion :
 
