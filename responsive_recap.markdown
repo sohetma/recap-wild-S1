@@ -23,17 +23,10 @@ Variation des propriétés CSS en fonction de conditions particulières :
 -	Largeur de l’écran (définition de points de rupture)
 - Orientation de l'écran
 
-exemple : '''css
-@media only screen and (max-width: 600px) {...}
-'''
-
-
+exemple : @media only screen and (max-width: 600px) {...}
 
 ### FlexBox :
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+Méthode de mise en page permettant de disposer des éléments en lignes ou en colonnes, en s’adaptant automatiquement à l’espace disponible et en facilitant les réagencements.
+
+
