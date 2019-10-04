@@ -9,7 +9,7 @@ Réorganisation des éléments sur une page de navigateur ou sur une app en fonc
 - Disparition d'éléments
 - Optimisation d'images
 
-![GitHub Logo](/recap-wild-S1/responsive.jpg) 
+![](/recap-wild-S1/responsive.jpg) 
 
 Comment ça se passe ?
 
